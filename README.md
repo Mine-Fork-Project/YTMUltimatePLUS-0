@@ -28,6 +28,9 @@ The best fork of YTMusicUltimate that adds more tweaks for the YouTube Music app
 <p align="center">
    <a href="#so-what-is-ytmultimate">More info about YTMUltimate+</a>
 
+<p align="center">
+<img width="318" height="162" alt="image" src="https://github.com/user-attachments/assets/5e4afbb1-4178-45de-9645-3b6b4127ef2e" />
+
 ## Bug reporting
 **In the repo may be some issues, so please report any issue in the [Issues](https://github.com/Mark02-2012/YTMUltimatePLUS/issues) section.**
 
